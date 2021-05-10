@@ -22,5 +22,3 @@ Convert your solution into a re-usable library. You will need to create a new re
 
 NOTE: If you run out of time converting the component into a re-useable library, you should still upload your work to github for us to see.
 
-### Send us the details
-Upload the new project to github (as a public repository) and email the details to `tech@jadendigital.com.au`.
